@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "2500",
+      "quantity": "300",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 300,
+      "quantity": 100,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": "350",
+      "quantity": 150,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Iphone",
+      "price": 5420,
+      "quantity": 15,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 7,
+      "name": "Logicom",
+      "price": "25",
+      "quantity": "10",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Watch Apple",
+      "price": "180",
+      "quantity": "13",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
